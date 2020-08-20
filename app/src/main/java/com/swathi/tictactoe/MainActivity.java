@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                         Score1.setText(" "+player1points);
 
                     } else {
-                        winnerText = text1+" has won the game";
+                        winnerText = text2+" has won the game";
                         player2points++;
                         Score2.setText(" " + player2points);
                     }
